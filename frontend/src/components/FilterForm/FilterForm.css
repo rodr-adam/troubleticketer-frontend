@@ -73,7 +73,8 @@
 }
 
 .result-item:hover{
-    transform: scale(1.04);
+    scale: 1.02;
+    transform: translateX(-20px);
     cursor: pointer;
     background-color: whitesmoke;
 }

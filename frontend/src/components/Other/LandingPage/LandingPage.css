@@ -32,12 +32,13 @@
 }
 
 .landing-page-tagline-container{
-    background-color: ;
+    
     display: flex;
     flex-direction: column;
     padding-left: 5rem;
     max-width: 400px;
 }
+
 
 .landing-page-description{
     max-width: 400px;
@@ -54,6 +55,10 @@
     padding: .75rem;
     text-align: center;
     max-width: 150px;
+}
+
+.landing-page-tagline:hover{
+    scale: 1.04;
 }
 
 .learn-more-link{

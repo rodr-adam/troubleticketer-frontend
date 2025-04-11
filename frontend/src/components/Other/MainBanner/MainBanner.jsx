@@ -19,21 +19,30 @@ const MainBanner = () => {
 
   return (
     <div className="banner-container">
+        <Link className='home-page-link' to='/'>
         <div className="title-container">
             <div className="title">
-                <Link className='home-page-link' to='/'><span>TroubleTicketer</span></Link>
+                <span>TroubleTicketer</span>
             </div>
         </div>
+        </Link>
         <ul className="sub-headers">
+            <Link className='banner-link' to='/technician/jobs'>
             <li className='sub-header'>
-                <span><Link className='banner-link' to='/technician/jobs'>My Jobs</Link></span>
+                <span>My Jobs</span>
             </li>
+            </Link>
+            <Link className='banner-link' to='/search'>
             <li className='sub-header'>
-                <Link className='banner-link' to='/search'>Tickets</Link>
+                <span>Tickets</span>
             </li>
+            </Link>
+            <Link className='banner-link' to='/about'>
             <li className="sub-header">
-                <Link className='banner-link' to='/about'>About</Link>
+                <span>About</span>
             </li>
+            </Link>
+
             <li className="sub-header login-logout-switch">
                 {isAuthenticated ? (
                     <Link className='banner-link' onClick={handleLogout}>Logout</Link>

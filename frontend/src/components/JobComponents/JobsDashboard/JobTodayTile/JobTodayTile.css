@@ -4,6 +4,7 @@
 }
 
 .today-job-container{
+    border: 1px solid grey;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -15,8 +16,9 @@
 }
 
 .today-job-container:hover{
+    scale: 1.02;
     cursor: pointer;
-    background-color: whitesmoke
+    background-color: whitesmoke;
 }
 
 
@@ -28,6 +30,7 @@
 
 .job-tile-title{
     font-size: 3rem;
+    font-weight: 200;
 }
 
 
@@ -41,6 +44,7 @@
 }
 
 .job-tile-time{
+    font-weight: 200;
     font-size: 3rem;
     text-align: right;
 }

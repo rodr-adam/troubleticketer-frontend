@@ -1,12 +1,33 @@
 
 .main-about-wrapper{
-    margin-top: 12vh;
+    margin-top: 15vh;
 }
 
 .main-about-container{
+    border-radius: 0.5rem;
     text-align: center;
-    padding-top: 2rem;
+    padding-top: 4rem;
     background: white;
     margin: 1rem 1rem;
     height: 100%;
+}
+
+.grafana-link{
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.about-title{
+    color: grey;
+    margin-bottom: 4rem;
+    font-size: 3rem;
+}
+
+.paragraphs-container{
+    padding: 2rem 4rem;
+}
+
+.about-paragraph{
+    color: grey;
+    font-size: 2rem;
 }
