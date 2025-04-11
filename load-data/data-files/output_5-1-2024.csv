@@ -1,0 +1,145 @@
+JV, 5-1-2024,1, answer no door access caller cbr id not call customer,The caller did not call the customer due to a "no door access" issue and CBR ID.
+JV, 5-1-2024,2, tv customer working stb not youtube remote wifi box no,The TV was working for the customer  but the STB did not support YouTube. The remote and Wi-Fi box were not functioning.
+JV, 5-1-2024,3, cx drop buried services working service verified eero ont ticket,The customer's drop was buried and services were working. The service was verified and an Eero ONT ticket was created.
+JV, 5-1-2024,4, dt ont dial tone voip iw good cx line jack,The ONT had a dial tone and VOIP. The line jack was good  and the customer's service was verified.
+JV, 5-1-2024,5, customer not working calls service tici issue able call make,The customer's calls were not working  and a TICI issue was identified. They were unable to make calls.
+JV, 5-1-2024,6, voice working service port data ont verified cust customer video,The voice service was working  and the data port of the ONT was verified for customer video.
+JV, 5-1-2024,7, customer eero ont assignment wifi no get router working service,The customer's Eero and ONT assignment were checked. The Wi-Fi router was not working.
+JV, 5-1-2024,8, phone customer jack service ont wire line not phones static,The phone jack service and ONT wire line had static  and the phone was not working.
+JV, 5-1-2024,9, light fiber cleaned customer ont 15 ends ports drop working,The fiber light was cleaned  and the customer's ONT and 15 ports were checked. The drop was working.
+JV, 5-1-2024,10, ont tici replaced customer services 16 bad light working education,The ONT was replaced  and customer services showed a bad light at 16. The issue was flagged for education.
+J7, 5-1-2024,1, ont customer tici replaced working service not eero verified new,The ONT was replaced and verified  but the service was not working. The Eero was also verified.
+J7, 5-1-2024,2, power ont eero replaced customer tici supply service working cord,The ONT and Eero were replaced  and the power supply and cord were working.
+J7, 5-1-2024,3, moca adapter ont customer verified replaced service tici power working,The MOCA adapter and ONT were replaced and verified. The power was working.
+J7, 5-1-2024,4, customer router service working ont eero replaced services tici verified,The customer's router service was working. The ONT and Eero were replaced  and TICI services were verified.
+J7, 5-1-2024,5, trouble ticket cleared tech ont service site onsite cx tici,The trouble ticket was cleared  and the technician verified the ONT service on-site using TICI.
+J7, 5-1-2024,6, port ont bounced data ethernet service customer verified restored tici,The ONT port and Ethernet service were verified. The data was bounced  and the TICI was restored.
+J7, 5-1-2024,7, cx ont service no verified working router services eero rg,The customer's ONT service was verified but the router and Eero were not working.
+J7, 5-1-2024,8, cust working services eero tici ed not ont no router,The customer's Eero service was not working. The ONT and TICI were not verified.
+J7, 5-1-2024,9, ok test ont customer no tici service internet working not,The test for the ONT and TICI was conducted  but the service and internet were not working.
+J7, 5-1-2024,10, no dial tone answer access door cbr called customer ont,There was no dial tone due to a "no door access" issue. The customer was called regarding the ONT.
+J0, 5-1-2024,1, phone tone dial working customer voice ont line assignment calls,The phone tone and dial were working  and the ONT line assignment calls were verified.
+J0, 5-1-2024,2, moca adapter adapters ont replaced service customer eero tici power,The MOCA adapter and adapters were replaced. The customer's Eero and TICI power were verified.
+J0, 5-1-2024,3, eero customer wifi app speed speeds test tici ont replaced,The customer's Eero Wi-Fi app speed test was conducted  and the ONT was replaced.
+J0, 5-1-2024,4, cx ont working service services verified no router not eero,The customer's ONT service was verified  but the router and Eero were not working.
+J0, 5-1-2024,5, customer no not router working service issue tici equipment services,The customer's service issue with the router was verified  and the TICI equipment services were checked.
+J0, 5-1-2024,6, buried drop ticket swc submitted temp customer request bsw not,A buried drop ticket was submitted for the customer  and BSW requested SWC was not working.
+J0, 5-1-2024,7, tv stb customer working youtube not service remote services verified,The customer's TV and STB were working  but YouTube was not supported. The remote services were verified.
+J0, 5-1-2024,8, trouble ticket cleared tech site tici working ont service customer, The remote services were verified.
+J0, 5-1-2024,9, ont customer replaced tici light service working verified services router,The ONT was replaced  and the light and service were verified.
+J0, 5-1-2024,10, drop fiber customer pole aerial terminal tici new house service,The fiber drop was checked. The terminal at the customer's pole was verified  and the aerial service was connected to the new house.
+J3, 5-1-2024,1, port terminal customer light hub moved drop service bad no,The port terminal light at the customer's hub was moved  but the drop service was bad and not working.
+J3, 5-1-2024,2, customer ont service working tici replaced verified services fiber not,The customer's ONT service was replaced  verified  and working with TICI  but fiber services were not working.
+J3, 5-1-2024,3, no answer access door cbr called knocked left call home,There was no answer at the door. Access was denied  and the customer was called but no one answered. A call was left at the home.
+J3, 5-1-2024,4, jumper hub pulled found ont customer tici light fiber missing,The jumper hub was pulled and found to have a missing light fiber at the customer's ONT  verified with TICI.
+J3, 5-1-2024,5, power ont supply customer adapter replaced no outlet bbu working,The power supply for the customer's ONT adapter was replaced  but there was no outlet and the BBU was not working.
+J3, 5-1-2024,6, cx ont service verified services drop working back no fiber,The customer's ONT service was verified and working  but the fiber drop at the back was not working.
+J3, 5-1-2024,7, splitter hub f1 customer ont xpon service tici assignment assigned,The splitter hub F1 for the customer's ONT XPON service was assigned using TICI.
+J3, 5-1-2024,8, light ont good no customer drop terminal fiber hub service,The light ONT was good  but the customer drop terminal fiber hub service was not working.
+J3, 5-1-2024,9, trouble ticket tech site drop working ont cleared fiber complete,A trouble ticket was issued for the tech site  and the drop was working. The ONT was cleared and the fiber was completed.
+J3, 5-1-2024,10, drop cut temp buried customer tici new service fiber placed,The drop was cut and temporarily buried. The customer’s TICI was replaced with new service fiber.
+Q4, 5-1-2024,1, eero router nvg customer replaced verified tici new speeds wifi,The Eero router for the NVG customer was replaced and verified with TICI  achieving new WiFi speeds.
+Q4, 5-1-2024,2, ont light tici service customer data hub working swapped port,The ONT light and data hub service for the customer were working after being swapped with TICI.
+Q4, 5-1-2024,3, cx tone dial working service ont phone verified tici services,The customer's dial tone service was working  and the ONT phone line was verified with TICI.
+Q4, 5-1-2024,4, stb dvr not cx working customer service verified new replaced,The customer's STB and DVR were not working  but the service was verified and the new equipment replaced.
+Q4, 5-1-2024,5, ipc customer working vms service verified not channels tici services,The customer's IPC and VMS service were working  but not all channels were verified with TICI.
+Q4, 5-1-2024,6, customer wifi router home working eeros devices test whole phone,The customer's WiFi router was working at home. All Eero devices were tested  including the phone.
+Q4, 5-1-2024,7, no voip access door rg customer answer vm called ont,There was no VOIP access at the door. The RG customer answered via VM and called about the ONT.
+Q4, 5-1-2024,8, cust services working gave tici not router ed 15 equipment,The customer’s services were working. The technician provided TICI  but the router and 15 equipment were not working.
+Q4, 5-1-2024,9, customer tv remote working service tici trouble stb no not,The customer's TV remote was working  but the STB had trouble and service was not verified with TICI.
+Q4, 5-1-2024,10, drop buried fiber temp customer ticket tici cx terminal trouble,The customer's fiber drop was buried temporarily. A ticket for TICI was issued to resolve terminal trouble.
+QD, 5-1-2024,1, stb tv customer working not remote channels new hd dvr,The customer's TV was working  but the remote channels on the new HD DVR were not.
+QD, 5-1-2024,2, router customer power not back working service ip static ont,The customer's router power was not working  and the service was static on the IP. The ONT was not working.
+QD, 5-1-2024,3, ont replaced service tici customer verified working light services xpon,The ONT was replaced and the service was verified with TICI. The customer's light services were working with XPON.
+QD, 5-1-2024,4, cx ont router service verified working not services tici eero,The customer's ONT router service was verified with TICI  but the Eero was not working.
+QD, 5-1-2024,5, eero customer installed router ont speed removed working service app,The customer's Eero was installed and removed for new service app verification with the ONT router speed.
+QD, 5-1-2024,6, moca adapter adapters replaced customer ont router service verified working,The MOCA adapter and ONT router were replaced for the customer. Service was verified with TICI.
+QD, 5-1-2024,7, customer no drop fiber working services trouble buried access service,The customer's fiber drop was not working. The trouble with buried access services was unresolved.
+QD, 5-1-2024,8, wifi home cust whole eero customer rg eeros installed issues,The customer's WiFi at home was working. All Eero devices were installed  including RG  without issues.
+QD, 5-1-2024,9, port ethernet data bounced ont wan router plugged customer service,The customer's Ethernet data port was bounced. The ONT WAN router was plugged in and the service was verified.
+QD, 5-1-2024,10, phone tone dial customer line voip ont assignment working ats,The customer's phone line dial tone service was working. The VOIP ONT assignment was verified with ATS.
+J6, 5-1-2024,1, changed splitter ont frx xpon hub data 19 customer verified,The splitter  ONT  FRX  XPON  and hub data were changed. Data for customer 19 was verified.
+J6, 5-1-2024,2, wan light no port ont data customer bounce tici completed,The WAN light port was not functioning  but the ONT data was completed with a customer bounce using TICI.
+J6, 5-1-2024,3, cx ont service services power verified back not swapped tici,The customer's ONT service power was verified  but the services were not swapped. TICI was used.
+J6, 5-1-2024,4, ont service no found verified needed eero working light troubleshooting,The ONT service needed verification. The Eero was working  and light troubleshooting was performed.
+J6, 5-1-2024,5, ont replaced bad working customer verified service services trouble tici,The faulty ONT was replaced  and the customer’s service was verified. Services were restored after troubleshooting with TICI.
+J6, 5-1-2024,6, port bounced customer restored service issue ont tici phone house,The port was bounced  and the customer's service issue with the ONT was restored using TICI. The phone and house lines were checked.
+J6, 5-1-2024,7, customer ont light education xpon wifi installed good hub worked,The customer's ONT light  XPON WiFi  and hub were installed. The service was verified  and everything worked well.
+J6, 5-1-2024,8, ont speed frx523 ran phone replaced xpon activated customer tested,The ONT speed was tested  and the FRX523 phone was replaced. XPON was activated  and the customer tested it successfully.
+J6, 5-1-2024,9, ok test rebooted fiber ont tested customer verified hub port,The fiber ONT was rebooted and tested. The customer verified the hub port.
+J6, 5-1-2024,10, everything costumer check good light ont inserted customer swapped outage,Everything was checked for the customer. The ONT light was good  and the outage was resolved by swapping it.
+J5, 5-1-2024,1, ont adapter not replaced customer working eero moca education internet,The ONT adapter was replaced  and the customer’s Eero and MOCA internet were working. Educational adjustments were made.
+J5, 5-1-2024,2, bbu cx bad opsu nnew psu isolated made online sure,The BBU and OPSU for the customer were replaced with a new PSU. The service was isolated  and the connection was made online.
+J5, 5-1-2024,3, cx ont got ats service upon arrival called oos troubleshooting,The customer’s ONT was verified upon arrival. ATS service was called for troubleshooting.
+J5, 5-1-2024,4, customer unable tested terminal damage replaced satisfied frontier irobot drop,The terminal damage was tested  and the customer was satisfied after the Frontier IRobot drop was replaced.
+J5, 5-1-2024,5, mr no eero mrs needed spoke internet connectivity face ok,Neither Mr. nor Mrs. needed Eero services. Internet connectivity was verified for their faces  and everything was okay.
+J5, 5-1-2024,6, jumper facilities back simpl call customer splitter assignment cus missing,The jumper facilities were assigned. The customer’s splitter and assignment call were simplified.
+J5, 5-1-2024,7, speed ont bad eero tested getting app 13 cx service,The speed of the customer’s ONT was tested  and the Eero was found to be bad. The CX service was checked with the app for 13 speeds.
+J5, 5-1-2024,8, cx drop light no repair rg prem door ran tests,The customer’s drop light needed repair  and tests were run at the RG premises door.
+J5, 5-1-2024,9, customer restored verified trouble working services ont cleared ticket service,The customer’s trouble was verified  and the service was restored. The ONT ticket was cleared.
+J5, 5-1-2024,10, cust service ont ats optical part flashing get unit address,The customer’s ONT and ATS optical parts were flashing. The unit was addressed.
+J2, 5-1-2024,1, left customers 15 outage tici running reading ont not see,The 15th customer outage was reported. TICI showed the ONT running  but nothing was seen.
+J2, 5-1-2024,2, port terminal cx ont hub 02 service back spliced verified,The CX port terminal and ONT hub for 02 service were spliced and verified.
+J2, 5-1-2024,3, ont tested data 15 removed db tici 250 drop verified,The data for the ONT was tested. The 15th removed DB was verified with TICI for a drop of 250.
+J2, 5-1-2024,4, customer restored outage service lost called work xconnects rebuilt due,The customer's service was restored after an outage. Work on xConnects was rebuilt.
+J2, 5-1-2024,5, drop temp cust mowed yard neighbor cut also clamps low,The temporary drop for the customer’s yard was mowed. The neighbor cut it  and clamps were added for low fiber.
+J2, 5-1-2024,6, box slack light mrs case week ticket good meassured close,The slack box light ticket for Mrs. Case was measured and close for the week.
+J2, 5-1-2024,7, ticket ok trouble ports completed 16 site tech services drop,The trouble ticket for ports was completed on site by the technician for drop services.
+J2, 5-1-2024,8, splitter mesh call pond going found ont light hub porch,The splitter was found at the mesh call pond. The ONT light hub was on the porch.
+J2, 5-1-2024,9, said door answer no metts com need started lm day,There was no answer at the door. Metts was needed to start LM for the day.
+J2, 5-1-2024,10, everything back assignment spoke cx chatted dt provision ndt neighbors,The customer's assignment was completed  and they spoke with the technician. The provision for NDT neighbors was noted.
+JD, 5-1-2024,1, nvg home google router ontb14 remove wifi db g1100 tici,The NVG home Google router was removed. The ONTB14 was installed  and the WiFi was tested. The G1100 TICI was used.
+JD, 5-1-2024,2, cx speeds 200 router party not using svc interpretor veryslow,The customer's speed was 200. The router was not using the service interpreter  and it was very slow.
+JD, 5-1-2024,3, dial tone assignment ats line ok alarm customer restored cannot,The dial tone assignment for the ATS line was okay  and the alarm was restored for the customer but could not be verified.
+JD, 5-1-2024,4, voice customer precalled issue dialtone line lines arrived call phone,The customer was pre-called about the issue with the dial tone line. The lines were checked upon arrival and a call was made from the phone.
+JD, 5-1-2024,5, customer working prem calls sub accounts data router good verified,The customer's service was working with premium calls and sub-accounts. The data router was verified to be good.
+JD, 5-1-2024,6, cx phone called get battery dt port issue line complete,The customer's phone was called to get the battery for the DT port issue  and the line was completed.
+JD, 5-1-2024,7, machine fax isolated tone dial new good bad feeding customer,The fax machine was isolated. The dial tone was new and good  but there were issues feeding the customer.
+JD, 5-1-2024,8, video tici services verified working cleaned cust top set not,The video services were verified using TICI  and the customer's top set was cleaned but not working.
+JD, 5-1-2024,9, power costumer back ont voice issues data light transfered assignment,The power for the customer’s ONT voice issues was transferred and assigned. The data light was checked.
+JD, 5-1-2024,10, stb ticket service restored tici trouble customer cleared verified let,The customer's STB service was restored  and the TICI trouble ticket was cleared and verified.
+J4, 5-1-2024,1, cx service restored 1000ont change long bouncing worked bedroom wrong,The customer's service was restored for the 1000ONT. The change took long  and the bouncing issue was worked on in the wrong bedroom.
+J4, 5-1-2024,2, xpon compatible gateway pon new gui end dwn cut motorola,The XPON gateway was compatible with the new PON GUI. The end was cut and a Motorola was installed.
+J4, 5-1-2024,3, power service replace customer ont bbu no damaged came damages,The customer's power service was replaced. The ONT BBU was damaged and replaced.
+J4, 5-1-2024,4, rebooted replaced readings signal ports cat5 fittings bounced wifi good,The signal readings were rebooted and replaced. The CAT5 fittings were bounced and the WiFi was good.
+J4, 5-1-2024,5, not get home prem access door neighbor tv saw no,The customer could not get access to the home premises. The neighbor saw the TV but could not gain entry.
+J4, 5-1-2024,6, 16 upgrade survey tici customer house ont back talked repaired,The survey for the 16th upgrade was done using TICI. The customer's house ONT was repaired after being talked through the process.
+J4, 5-1-2024,7, services power replaced no tested working router customer system data,The customer’s power services were replaced and tested. The system data router was verified to be working.
+J4, 5-1-2024,8, wire behind loveseat accidentally video svc plug inside reconnected connection,The wire behind the loveseat was accidentally unplugged. The video service plug was reconnected inside.
+J4, 5-1-2024,9, cx splitter services swapped tici another defective states moved ticket,The customer's splitter services were swapped using TICI. Another defective ticket was moved to a different state.
+J4, 5-1-2024,10, nvg also cx changed bad eero old adaoter certification remove,The NVG customer also changed the bad Eero and removed the old adapter with certification.
+J1, 5-1-2024,1, vms usb drive 16 612 working 51 app assigned svcs,The VMS USB drive 16 was working with 612. The 51 app was assigned to services.
+J1, 5-1-2024,2, ont service replace ticket arrive remove verify site perform reading,The customer's ONT service ticket was replaced and verified upon arrival. The site was checked for performance.
+J1, 5-1-2024,3, moved tested services customer cord equipment outage restored existing frx523,The customer's cord equipment outage was restored to the existing FRX523.
+J1, 5-1-2024,4, cx data desk working router diascussed 28 f1 unplugged tt,The customer's data desk was working. The router was discussed and the F1 was unplugged.
+J1, 5-1-2024,5, ok dan sub fine half okay got call good called,Everything was okay for Dan. The sub was fine halfway  and the call was made.
+J1, 5-1-2024,6, tell anyone go xamusing sidnt changed co xustomers multiple bpon,The customer was informed that the Xamusing system was changed for multiple BPON.
+J1, 5-1-2024,7, able call customer light ua trace update no facilities 13,Unable to call the customer due to no facilities available for light UA trace update  customer 13.
+J1, 5-1-2024,8, provisioned not process checked done serial traffic error area proper,The provisioning process was not completed correctly; checked and done for the serial traffic error in the proper area.
+J1, 5-1-2024,9, enclosure wifi ont installed removed customer router verified int 211,The WiFi ONT enclosure was installed and the customer router was verified with INT 211.
+J1, 5-1-2024,10, cable ethernet noticed internet went router cleaned cycles 5dbm connection,The Ethernet cable and internet connection were cleaned after the router noticed 5 dBm cycles.
+WN, 5-1-2024,1, co bad f2 customer xb verified vacant term issolated moved,The CO had a bad F2 customer XB. The vacant terminal was verified and isolated.
+WN, 5-1-2024,2, pair pole truck repaired open help nid next bucket cable,The pair pole truck was repaired and the open NID was helped with the next bucket cable.
+WN, 5-1-2024,3, short sounds snd places tap machine multiple not home grounded,Short sounds and noises were heard in multiple places. The tap machine was grounded and tested  but the problem was not at home.
+WN, 5-1-2024,4, stb ok dvr swapped hardware no older failure services tested,The STB was okay and the DVR hardware was swapped  but the older services failed and were tested.
+WN, 5-1-2024,5, sub dt thats verify ont fiber move subs assignm different,The sub DT verified the fiber move assignments for different subs.
+WN, 5-1-2024,6, shifted restore original per ew feed insde ms drop pr,The original feed was restored per EW  inside the MS drop PR.
+WN, 5-1-2024,7, voip worked turned told shut forwarded got needed calling cell,The VOIP service was turned off and forwarded after calling the cell. It was needed to shut down.
+JP, 5-1-2024,1, optical cstr light ont aware lm needed orage updating red,The optical CSTR light and ONT were updated. LM needed an ORANGE update for the red light.
+JP, 5-1-2024,2, eero rebooted work cust 1gig alina app ookla fca252 pee,The Eero was rebooted and the customer's 1 Gig Alina app Ookla FCA252 was verified.
+JP, 5-1-2024,3, cx router services isolated eero reset mesh affected requested lead,The customer's router services were isolated  and the Eero mesh was reset after being affected. A lead was requested.
+JP, 5-1-2024,4, hub fiber properly dirty back cleaned service working wire whole,The fiber hub was properly cleaned and the service wire was working back.
+JP, 5-1-2024,5, svc stated power na lr outage connect upon wifi arrival,The SVC stated there was a power outage at NA LR  and the WiFi was connected upon arrival.
+JP, 5-1-2024,6, would temporary run bad called signal phone nvg cell customer,The temporary run was bad. The signal was called on the phone for the NVG cell customer.
+JP, 5-1-2024,7, terminal 17 upgraded fog frx low cleaned fiber light ont,The terminal 17 was upgraded  and the FRX fog low light on the ONT was cleaned.
+JP, 5-1-2024,8, 227 338 ont rg programming closet ats fixed ul test,The programming for ONT 227 and 338 was fixed in the closet ATS with UL test.
+JP, 5-1-2024,9, mr got signal says 32 30 approx level issues since,Mr. received a signal  stating 32-30 level issues since approximately.
+JP, 5-1-2024,10, whole survey kinks 27 advised found home upgraded low 16,The whole survey had kinks. 27 advised that the home was upgraded to a low of 16.
+WH, 5-1-2024,1, pair span walmart side open one nid grounded bad around,The pair span at Walmart had an open NID. The grounded bad area was inspected.
+JM, 5-1-2024,1, working moca phone arrived cx probably rebooted fixed got fsc,The MOCA phone was working. The customer arrived and rebooted the FSC.
+JM, 5-1-2024,2, tv customer remote could input change verified light tech replaced,The customer's TV remote input was verified and changed. The tech replaced the light.
+JM, 5-1-2024,3, stb terminal trouble cleared home hub swapped picture quality issue,The STB terminal trouble was cleared. The home hub was swapped and the picture quality was improved.
+JQ, 5-1-2024,1, working tici survey spoke services replaced q4 ont cuatomer confirmed,The TICI survey spoke to the customer. The services were replaced and confirmed for Q4 ONT.
+JR, 5-1-2024,1, another cx modem new one replaced arris trainer yet working,Another customer’s modem was replaced with a new Arris trainer  but it was not working yet.
+Q1, 5-1-2024,1, ont cust services bad told wire xpon spoke tici slow,The customer's ONT services were slow. The wire XPON was confirmed by TICI.
+W1, 5-1-2024,1, cst side noise pair set speed went spoke prem open,CST side noise was present. The pair set speed was discussed and the problem was inspected.

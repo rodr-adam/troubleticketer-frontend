@@ -1,0 +1,137 @@
+.search-results-container{
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12vh;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 0rem 0.5rem 0rem 2rem;
+    background: white;
+    max-width: 1800px;
+    height: 720px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+
+    opacity: 0;
+    transform: translateY(150px);
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+    
+}
+
+.search-results-container.slide-up{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.search-container{
+    padding-left: 1rem;
+    margin-right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-title{
+    text-align: left;
+    font-size: 3rem;
+    max-width: 400px;
+}
+
+
+.results-container{
+    max-width: 950px;
+    width: 100%;
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.results-container::-webkit-scrollbar{
+    display: none;
+}
+
+.results-container h3{
+    text-align: center;
+    color: #333;
+    font-size: 22px;
+    margin-bottom: 15px;
+   
+}
+
+.results-list{
+    list-style: none;
+    padding: 0;
+    margin-left: 2rem;
+}
+
+.result-item{
+    background: white;
+    padding: 1rem;
+    margin-bottom: 5px;
+    border-radius: .5rem;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.result-item:hover{
+    transform: scale(1.04);
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+
+.formatted-sentence{
+    margin-top: 3rem;
+}
+
+.result-header{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: #555;
+
+}
+
+.filter-search-button{
+    background-color: whitesmoke;
+    width: 65%;
+    border-radius: 0.5rem;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd; 
+    outline: none;
+    height: 2.5rem;
+    padding-left: 1rem;
+    transition: box-shadow 0.3s ease;
+}
+
+
+.filter-search-button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.trouble-input{
+    width: 60%;
+    border-radius: 0.5rem;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd; 
+    outline: none;
+    height: 2.5rem;
+    padding-left: 1rem;
+    transition: box-shadow 0.3s ease;
+}
+
+.trouble-input:focus{
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.no-results{
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    color: grey;
+}
+
+
+

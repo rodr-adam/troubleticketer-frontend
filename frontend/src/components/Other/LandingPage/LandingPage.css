@@ -1,0 +1,72 @@
+.landing-page-container{
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.landing-page-content{
+    margin-top: 175px;
+    height: 550px;
+    width: 750px;
+    background-color: white;
+    border: 5px solid grey;
+    margin-left: 120px;
+
+    opacity: 0;
+    transition: opacity 0.4s ease-out;
+}
+
+.landing-page-content.fade-in-content{
+    opacity: 0.9;
+}
+
+.landing-page-title-container{
+    max-width: 600px;
+    padding-left: 5rem;
+    max-height: 250px;
+}
+
+.landing-page-title{
+    font-size: 3.5rem;
+    color: grey;
+}
+
+.landing-page-tagline-container{
+    background-color: ;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5rem;
+    max-width: 400px;
+}
+
+.landing-page-description{
+    max-width: 400px;
+    font-size: 2rem;
+    color: black;
+}
+    
+
+.landing-page-tagline{
+    font-size: 1.25rem;
+    color: white;
+    background-color: black;
+    border-radius: 2rem;
+    padding: .75rem;
+    text-align: center;
+    max-width: 150px;
+}
+
+.learn-more-link{
+    color: white;
+    text-decoration: none;
+}
+
+.landing-page-image{
+    position: fixed;
+    top: 75px;
+    height: 800px;
+    width: 1600px;
+    z-index: -1;
+}
+
+

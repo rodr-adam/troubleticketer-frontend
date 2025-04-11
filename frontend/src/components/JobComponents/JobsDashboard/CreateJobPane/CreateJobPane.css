@@ -1,0 +1,59 @@
+.create-pane-container{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.create-form-title-container{
+    margin-bottom: 2rem;
+    padding-top: 0.75rem;
+
+}
+
+.create-input{
+    display: block;
+    width: 95%;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ddd; 
+    outline: none;
+    height: 2.5rem;
+    padding-left: 1rem;
+}
+
+.create-input:focus{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.create-input.create-description{
+    height: 9rem;
+    font-family: inherit;
+}
+
+.create-form-container{
+    margin: 0 auto auto 0;
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+}
+
+.create-job-button{
+    background-color: whitesmoke;
+    padding-block: .5rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd; 
+    outline: none;
+    cursor: pointer;
+}
+
+.create-job-button:hover{
+    background-color: black;
+    color: white;
+}
+

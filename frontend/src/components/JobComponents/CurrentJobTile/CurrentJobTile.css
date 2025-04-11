@@ -1,0 +1,107 @@
+.curr-job-container{
+    height: 95%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1rem;
+    
+}
+
+.time-and-title{
+    display: flex;
+    flex-direction: row;
+    width: 450px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.appt-time{
+    text-align: right;
+    font-size: 3rem;
+    height: 50%;
+    width: 100%;
+}
+
+.job-title-container{
+    height: 100px;
+    width: 200px;
+    padding: 5rem 1rem 1rem 2rem;
+    margin-right: 5rem;
+}
+
+.current-job-time-container{
+    padding: 0rem 1rem 1rem 0rem;
+    width: 100px;
+    height: 100px;
+}
+
+.job-details-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+}
+
+.job-description-container{
+    display: flex;
+    height: 500px;
+    width: 425px;
+    overflow: hidden;
+    padding: 1rem;
+    border: 1px solid lightgray;
+    overflow-y: auto;
+    margin: 0 1rem 1rem 1rem;
+}
+
+.job-description{
+    overflow: hidden;
+    font-size: 1.25rem;
+    font-weight: 200;
+    word-wrap: break-word;
+}
+
+.contact-container{
+    height: 20px;
+    width: 460px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.job-address-container{
+    width: 200px;
+    height: 300px;
+    padding: 0rem 2rem 0rem 2rem;
+    padding-left: 2rem;
+    max-height: 200px;
+}
+
+.job-address{
+    font-size: 1.75rem;
+    text-align: left;
+    overflow-y: auto;
+}
+
+.job-title{
+    font-size: 2rem;
+}
+
+.customer-name, .phone{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+.select-a-job-message{
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: grey;
+    position: relative;
+    top: 20rem;
+    left: 12rem;
+}

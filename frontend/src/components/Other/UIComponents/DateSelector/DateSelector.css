@@ -1,0 +1,19 @@
+.date-selector{
+    display: flex;
+    flex-direction: row;
+    width: 420px;
+    gap: .5rem;
+}
+
+.date-selector-input{
+    display: inline;
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+    border: 1px solid #ddd; 
+    outline: none;
+    height: 2.5rem;
+    padding-left: 1rem;
+    
+}
